@@ -1,4 +1,4 @@
-### Olá, Me chamo luquas15!
+### Olá, Meu nome é Lucas Manganelli!
 
 - 🔭 Hoje faço Jovem aprendiz na General Motors como analista de TI
 - 🌱 Estou cursando analise e desenvolvimento de sistemas na UniRitter
