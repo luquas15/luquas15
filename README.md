@@ -1,7 +1,7 @@
 ### Olá, Me chamo luquas15!
 
 - 🔭 Hoje faço Jovem aprendiz na General Motors como analista de TI
-- 🌱 Estou cursando analise e desenvolvimento de sistemas
+- 🌱 Estou cursando analise e desenvolvimento de sistemas na UniRitter
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luquas15&show_icons=true&theme=dracula">
